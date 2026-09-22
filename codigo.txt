@@ -1,2 +1,3 @@
-print("Hello world");print("Hello world");
+print("Hello world");
 print("How are you :)");
+print("No sé pq se añadio ese segundo 'print("Hello World")')
