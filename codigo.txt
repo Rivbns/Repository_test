@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 print("Hello world");
 print("How are you :)");
 print("No sé pq se añadio ese segundo 'print("Hello World")')
 print("Cambio en la misma web de github")
 print("Postdata: No sé pq sigo usando el print")
+=======
+print("Hello world");print("Hello world");
+print("How are you :)");
+>>>>>>> parent of 360fe16 (Prueba 3)
